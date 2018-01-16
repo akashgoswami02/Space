@@ -8,7 +8,7 @@
 
 import XCTest
 
-class ClimbUITests: XCTestCase {
+class SpaceUITests: XCTestCase {
         
     override func setUp() {
         super.setUp()
