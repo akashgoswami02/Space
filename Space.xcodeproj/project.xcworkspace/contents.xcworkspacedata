@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:Climb.xcodeproj">
+      location = "self:/Users/Akash/Documents/Climb/Space.xcodeproj">
    </FileRef>
 </Workspace>
